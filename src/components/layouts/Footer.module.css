@@ -16,7 +16,7 @@
     list-style-type: none;
 }
 .social_list li{
-    margin: 0 1em;
+    margin-right: 2.4em;
 }
 .social_list li:hover{
     color: gold;
